@@ -5,4 +5,4 @@
 
   Responsive for all devices, build using HTML and CSS.
 
-  <a href="https://sadhikaligit.github.io/amazon-clone/"><strong>➥ Live Demo</strong></a>
+  <a href="https://sadhikaligit.github.io/Amzone-clone/"><strong>➥ Live Demo</strong></a>
